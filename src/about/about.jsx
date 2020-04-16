@@ -1,5 +1,7 @@
 import React from 'react';
 
 export default () => (
-  <h1>Sobre</h1>
+  <div>
+    <h1>Sobre</h1>
+  </div>
 )
